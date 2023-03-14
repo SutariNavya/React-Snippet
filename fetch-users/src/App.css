@@ -1,0 +1,9 @@
+.table-details {
+  margin-top: 100px;
+  margin-left: 20px;
+  border: 1px solid #999999;
+}
+
+.table-details td{
+  border:  1px solid #999999;
+}
